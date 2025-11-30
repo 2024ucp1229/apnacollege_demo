@@ -1,3 +1,3 @@
 # apnacollege_demo
 this is my first repository
-author -shweta
+author -shweta choudhary
